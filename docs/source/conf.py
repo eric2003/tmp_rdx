@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ModernLife'
+project = 'ModernLife1'
 copyright = '2023, eric'
 author = 'eric'
 release = '1.0'
@@ -26,5 +26,5 @@ exclude_patterns = []
 
 #html_theme = 'alabaster'
 #html_theme = 'sphinx_rtd_theme'
-html_theme = "classic"
+html_theme = "classic1"
 html_static_path = ['_static']
